@@ -8,6 +8,7 @@ This is a SSH login tool
 ###　一.说明
 - 支持秘密和密钥两种格式
 - 用户名和密码都是写文件的,明文保存
+- cp password.lst.simple password.lst,并修改password为你的配置文件即可
 
 ### 二.配置
 - 密码文件配置:
